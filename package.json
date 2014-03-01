@@ -1,0 +1,22 @@
+{
+  "name": "showdme-demo-data",
+  "version": "0.0.1",
+  "description": "import demo data",
+  "main": "index.js",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mykabam/demo-data.git"
+  },
+  "dependencies": {
+    "async": "*",
+    "node-xlsx": "*",
+    "superagent": "*",
+    "mongoose": "*",
+    "lodash": "*",
+    "mongoose-schema-extend": "*"
+  }
+}
